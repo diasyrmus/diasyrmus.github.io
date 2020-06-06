@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: "diasyrmus-media"
+title: "introductory post"
 date: 2020-02-23
 ---
 
