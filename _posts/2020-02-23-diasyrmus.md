@@ -4,4 +4,7 @@ title: "diasyrmus"
 date: 2020-02-23
 ---
 
-Scratchpad for stray thoughts, blurts and jottings on media, product and accessibility.
+<div class="blurb">
+	<h1>diasyrmus</h1>
+	<p>will be building this site up slowly - mainly a repository for public throat-clearing and thoughts.</a></p>
+</div><!-- /.blurb -->
