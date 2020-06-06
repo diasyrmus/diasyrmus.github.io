@@ -5910,4 +5910,9 @@ button.close {
     display: none !important;
   }
 }
+
+nav ul li, footer ul li {
+    display: inline;
+    margin-right: 20px;
+}
 /*# sourceMappingURL=bootstrap.css.map */
