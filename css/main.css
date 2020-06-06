@@ -2,12 +2,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 body {
-    font-family: 'sans-serif';
+    font-family: 'Sans-serif';
     margin: 60px auto;
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:'sans-serif';
+    font-family:'Sans-serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
