@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: INTRODUCTORY POST
+title: introductory post
 date: 2020-02-23
 ---
 
