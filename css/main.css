@@ -22,6 +22,7 @@ a:hover {
 h1 {
     font-size: 3.5em;
     font-family:'Inconsolata';
+    font-weight: 300;
 }
 p {
     font-size: 1.2em;
