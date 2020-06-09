@@ -1,7 +1,6 @@
-
 ---
 layout: posts
-title: how to work together
+title: how to work together 1
 date: 2020-06-07
 ---
 
