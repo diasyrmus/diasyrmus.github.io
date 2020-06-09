@@ -4,8 +4,6 @@ title: how to work together 1
 date: 2020-06-07
 ---
 
-# how to work together 1
-
 the first of these posts will look at some initial considerations and learnings from the early stages of remote working as a team, the second will look at what a future virtual environment based on remote working may need to consider to be successful.
 
 when our team first realised we were going to have to work from home, probably for a prolonged period, we wanted to make sure our work during this period was as effective as possible. We also wanted to make sure we retained our strong sense of team spirit. We're a tightly-bound team – I consider myself exceptionally lucky to be able to work with them – how to that maintain spirit where we weren't in the same physical space I felt was an important question.
