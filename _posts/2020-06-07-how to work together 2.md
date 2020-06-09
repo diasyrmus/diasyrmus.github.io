@@ -1,10 +1,8 @@
 ---
 layout: posts
-title: how to work together
+title: how to work together 2
 date: 2020-06-07
 ---
-
-# how to work together 2
 
 * Managing inclusion
 * Different psychological types
