@@ -1,3 +1,11 @@
+---
+layout: posts
+title: being an ally
+date: 2020-06-15
+---
+
+
+
 # What does it mean
 when you're asked to participate as an 'ally' in the workplace? 
 
