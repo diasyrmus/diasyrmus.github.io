@@ -4,10 +4,7 @@ title: being an ally
 date: 2020-06-15
 ---
 
-
-
-# What does it mean
-when you're asked to participate as an 'ally' in the workplace? 
+What does it mean when you're asked to participate as an 'ally' in the workplace? 
 
 I was recently asked to participate in some D&I material on a slide for 'allies' for LGBTQ+. I was automatically happy to do so. It required a photo of me pointing in a direction, which would link to a quote. I said I didn't like the boilerplate quotes, which seemed to me extremely anodyne, to which the not unreasonable response was 'ok, come up with your own.'
 
