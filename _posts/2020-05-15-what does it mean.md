@@ -20,7 +20,7 @@ and
 
 However, both of these also indicated the problem, specifically in the workspace. Largely, I agree with a 'mind your own business' approach, and view that people's private lives should be allowed to be private. However, the workplace is a community, participation in which people's livelihoods depend. It cannot be truly seen as a voluntary group, to which you can simply choose to belong or leave; doing so will often involve some degree of psychological or financial stress. 
 
-In fact the workplace is a real test of inclusion.
+In fact the workplace is a real test of inclusion where the option of 'more or less rubbing along together' isn't really an option.
 
 1) Seeking to aggregate to oneself the specific richness, pleasure, happiness, pride, anger, etc emotions and experiences, which the outgroup have fought for. One of the draft quotes was 'diversity enriches us all, intolerance is a narrowing, impoverishment. by supporting and listening to LGBTQ+ people and communities we can all take pride in that diversity and richness'. **We can all take pride**. There is a sense of absorbing some of the power and that diversity away from the marginal group and into the power group. As a member of that group I think I would be saying, 'these things are *our* things, they are *not* for you.' Battening on to them, trying to participate in them in some way, seeking to absorb them into your power structures, is only another form of expression of the power group to which you belong. **We want what you have**
 
