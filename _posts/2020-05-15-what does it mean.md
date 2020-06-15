@@ -32,7 +32,8 @@ I decided to itemise the immediate barriers I was hitting with my apparently sim
 
  I think there are things that need to happen to ensure that 1&2 are understood, and therefore to allow further positive engagement. 
  
- Some important thing I think it needs if you're going to be used as an ally in a corporate space:
+So, some things I think you need to check before you're being presented as or presenting yourself as an ally in the workspace.
+ 
  * THINK: *Think* about your relative power positions, *check* your privilege (don't pull that face), *think* about the language you're using and how it may come across.
  * STRUCTURE: Is this taking place in a framework of structured thinking and action, or is it just corporate wallpaper?
  * VOICE: I think probably a place for anonymous feedback and a questionnaire about minority experiences in your workplace should ideally be a *precondition* of participation.
