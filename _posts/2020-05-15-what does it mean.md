@@ -12,7 +12,7 @@ Fine.
 
 Finding the right words was hard though. Immediately I started coming up barriers around the nature of my relationship to minority groups, and what I could legitimately and helpfully say about areas of which I had little or no personal understanding. I mean, I must admit my first two attempts, which were probably my most sincerely felt were:
 
-'If you're intolerant of LGBTQ+ experiences, people and communities, you're a massive idiot' (1)
+'If you're intolerant of LGBTQ+ experiences, people and communities, you're a massive idiot' (1) (my original version was somewhat ruder).
 
 and
 
