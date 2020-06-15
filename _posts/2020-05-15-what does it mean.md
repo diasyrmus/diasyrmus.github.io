@@ -10,7 +10,7 @@ I was recently asked to participate in some D&I material on a slide for 'allies'
 
 Fine.
 
-Finding the right words was hard though. Immediately I started coming up against who owns empowerment. I mean, I must admit my first two attempts, which were probably my most sincerely felt were:
+Finding the right words was hard though. Immediately I started coming up barriers around the nature of my relationship to minority groups, and what I could legitimately and helpfully say about areas of which I had little or no personal understanding. I mean, I must admit my first two attempts, which were probably my most sincerely felt were:
 
 'If you're intolerant of LGBTQ+ experiences, people and communities, you're a massive twat' < - unhelpfully gendered swearword, but in UK English, it expresses almost exactly the type.*
 
