@@ -18,7 +18,7 @@ and
 
 'Really, who gives a shit how other people want to love and have sex, or how they want to identify? Mind your own business!'
 
-However, both of these also indicated the problem, specifically in the workspace. Largely, I agree with a 'mind your own business' approach, and view that people's private lives should be allowed to be private. However, as the workplace is a community, participation in which people's livelihoods depend. It cannot be truly seen as a voluntary group, to which you can simply choose to belong or leave; doing so will often involve some degree of psychological or financial stress. 
+However, both of these also indicated the problem, specifically in the workspace. Largely, I agree with a 'mind your own business' approach, and view that people's private lives should be allowed to be private. However, the workplace is a community, participation in which people's livelihoods depend. It cannot be truly seen as a voluntary group, to which you can simply choose to belong or leave; doing so will often involve some degree of psychological or financial stress. 
 
 In fact the workplace is a real test of inclusion.
 
