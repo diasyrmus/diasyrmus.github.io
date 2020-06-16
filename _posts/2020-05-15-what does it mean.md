@@ -12,11 +12,11 @@ Fine.
 
 Finding the right words was hard though. Immediately I started coming up barriers around the nature of my relationship to minority groups, and what I could legitimately and helpfully say about areas of which I had little or no personal understanding. I mean, I must admit my first two attempts, which were probably my most sincerely felt were:
 
-'If you're intolerant of LGBTQ+ experiences, people and communities, you're a massive idiot' (1) (my original version was somewhat ruder).
+'If you're intolerant of LGBTQ+ experiences, people and communities, you're a massive idiot' (my original version was somewhat ruder).
 
 and
 
-'Really, who gives a shit how other people want to love and have sex, or how they want to identify? Mind your own business!'
+'Really, who gives a shit how other people want to love and have sex, or how they want to identify? Mind your own business!' (1)
 
 However, both of these also indicated the problem, specifically in the workspace. Largely, I agree with a 'mind your own business' approach, and view that people's private lives should be allowed to be private. However, the workplace is a community, participation in which people's livelihoods depend. It cannot be truly seen as a voluntary group, to which you can simply choose to belong or leave; doing so will often involve some degree of psychological or financial stress. 
 
