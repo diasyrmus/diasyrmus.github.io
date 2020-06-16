@@ -30,7 +30,7 @@ I decided to itemise the immediate barriers I was hitting with my apparently sim
 
 3) One non-concern: I have no real worry about the appearance of 'white knighting', a term which largely seems to be used by those in positions of power to criticise those attempting to speak for or assist minority groups in spaces which are resistent to them, though the term does draw down on the inherent vulnerabilities presented by both 1+2 above.
 
- I think there are things that need to happen to ensure that 1&2 are understood, and therefore to allow further positive engagement. 
+I think there are things that need to happen to ensure that 1&2 are understood, and therefore to allow further positive engagement. 
  
 So, some things I think you need to check before you're being presented as or presenting yourself as an ally in the workspace.
  
