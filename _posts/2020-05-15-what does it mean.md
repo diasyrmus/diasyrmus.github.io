@@ -58,6 +58,10 @@ Oh, one other 'finally' - I wanted to use the phrase LGTBTQ+ experiences, people
 
 (1) I'm reminded of William Empson's criticism of God and Christianity in *Milton*:
  
- > Mucking about with people’s sex, always a disgusting business of course, is the epidemic or grass-roots way for Christians to gratify their God, when prevented by public opinion from having an epidemic or orgy of torture. The phrase ‘mucking about’ may seem to lack precision or dignity, but I do not know what else would cover what it is needed to describe. Apart from what goes on among believers, it is a regular demand of Christians to alter the public law, so that people who are not even supposed to be Christians can be tormented under rules invented for the edification of believers.
+ 
+<blockquote class="quoteback" data-title="Please Empson, Don’t Hurt ‘Em! – My Blog" data-author="" cite="http://themidnightbell.com/tmb/?p=129">
+Mucking about with people’s sex, always a disgusting business of course, is the epidemic or grass-roots way for Christians to gratify their God, when prevented by public opinion from having an epidemic or orgy of torture. The phrase ‘mucking about’ may seem to lack precision or dignity, but I do not know what else would cover what it is needed to describe. Apart from what goes on among believers, it is a regular demand of Christians to alter the public law, so that people who are not even supposed to be Christians can be tormented under rules invented for the edification of believers.
+<footer><cite><a href="http://themidnightbell.com/tmb/?p=129">http://themidnightbell.com/tmb/?p=129</a></cite></footer>
+</blockquote><script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
  
 (2) I tell you the thing that *really* expresses this for me, though it's not really exactly pertinent, is what I perceive as a public school desire to aggregate culture that has appeared in lower-income or marginalised spaces to themselves. It's often music. And of course, it's easy to buy your way in if you have the money. David Cameron seemed excellent at this, both the hug a hoodie ... policy...  what the hell was it? and his *agonising* 'you ain't no muslim bruv' speech. Oh, and see also performatively straight men in gay clubs - it's not your space, deal with it. You're genuinely not being oppressed.
