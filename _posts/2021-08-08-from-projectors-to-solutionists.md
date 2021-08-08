@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: From Projectors to Solutionists
 tags: history language
 date: 2021-08-08
