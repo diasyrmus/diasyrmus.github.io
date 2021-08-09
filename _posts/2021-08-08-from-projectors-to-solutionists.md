@@ -1,6 +1,7 @@
 ---
 layout: post
 title: From Projectors to Solutionists
+tags: history solutionists words
 date: 2021-08-08
 ---
 Anton Howes has been doing *good history* on his substack. Painstaking attention to detail to try and get to the likeliest view of a matter. Free from arroagance. It's a delight to read. 
