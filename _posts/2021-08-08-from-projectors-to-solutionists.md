@@ -1,6 +1,6 @@
 ---
 layout: post
-title: From Projectors to Solutionists
+title: from projectors to solutionists
 tags: history solutionists words
 date: 2021-08-08
 ---
