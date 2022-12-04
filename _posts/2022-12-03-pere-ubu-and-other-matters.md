@@ -25,7 +25,7 @@ Afterwards a number of musicians in the audience express disgust at David Thomas
 
 and yes he'll be here forever and no we won't cry when he's gone. 
 
-But the point is *he knows what he wants*, and if expressing that were easy... well, who would want to see *that*.
+But the point is *he knows what he wants*, and maybe it's just a feeling that's hard to define or find until you've found it, and if expressing that were easy... well, who would want to see *that*.
 
 ## The Carrier Bag Theory of Writing ##
 
