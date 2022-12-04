@@ -48,7 +48,7 @@ Also a superb disquisition on the perfect butter croissant in one of the bifurca
 ## ATTACK BY STRATAGEM ##
 I go home and play through some music, the best being Ja'King the Divine's new album *手术: BLACK SUN TZU*:
 
-[ATTACK BY STRATAGEM](https://youtu.be/pcaCKUajYRs).
+[ATTACK BY STRATAGEM](https://youtu.be/pcaCKUajYRs)
 
 Then out to London Fields for the *Pere Ubu Moon Unit* gig.
 
