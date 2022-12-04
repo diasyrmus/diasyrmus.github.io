@@ -1,3 +1,10 @@
+---
+layout: post
+title: pere ubu and other matters
+tags: pere_ubu jacques_roubaud ontological_uncertainty haircut music books ja'king_the_divine E40 ursula_k_le_guin theories
+date: 2021-08-08
+---
+
 ## Pere Ubu ##
 Went to the Pere Ubu *Moon Unit* gig, London Fields, the second time in as many weeks after not having sanctified its precinct for nearly a decade. A number of old friends and acquaintances there, at a level I hadn't really been prepared to field. The question 'Hey! How's it *going*?!' brought me to something that felt like mild panic at its sixth or seventh iteration.
 
