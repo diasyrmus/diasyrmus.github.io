@@ -5,8 +5,6 @@ tags: pere_ubu music jacques_roubaud ontological_uncertainty ja-king-the-divine 
 date: 2022-12-03
 ---
 
-
-## Pere Ubu ##
 Went to the Pere Ubu *Moon Unit* gig, London Fields, the second time in as many weeks after not having sanctified its precinct for nearly a decade. A number of old friends and acquaintances there, at a level I hadn't really been prepared to field. The question 'Hey! How's it *going*?!' brought me to something that felt like mild panic at its sixth or seventh iteration.
 
 *I'm racking my brains, and I really don't know* would have been a truthful answer. *I've been racking my brains for a while and I **really** don't know how I am* also.
@@ -21,6 +19,7 @@ When I was young I used to leave records lying around, so that they'd accumulate
 
 Probing and testing to get responses, and understand the new environment in which you exist, the changed you that exists in the environment, if they are different. 
 
+## Pere Ubu ##
 The *Pere Ubu Moon Unit* gig was perfect for that. *Moon Unit* is *Pere Ubu*'s live testing function. The group will turn the dial on the radio finding signals, sounds, fragments of delta blues, scraps of melody, stray tendrils of electric guitar, clarinet, theremin, probing around each other, while David Thomas intones the landscape in his mind. It's an extremely well developed landscape of symbolic locations, pop culture, understood across a number of years and albums and written manifestos. The aim is to find connections, amplifications of the psychic material, a soundtrack not yet made, or being iterated, or with a form not yet fully defined. There are no repeatable objects found in a *Moon Unit* gig. They are in the process of being discovered.
 
 Like the pre-covid self, old lyrics get taken out for a ride to how known and understood areas can provide a lyrical location for new forms of music and territories for new lyrics. *30 Seconds over Tokyo* gets a long slow run-through, its lyrics even more striking unfolded in this way.
