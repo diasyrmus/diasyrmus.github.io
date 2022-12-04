@@ -46,7 +46,7 @@ But I'm in a mood for ontological uncertainty, perhaps for the reasons set out a
 Also a superb disquisition on the perfect butter croissant in one of the bifurcations.
 
 ## ATTACK BY STRATAGEM ##
-I go home and play through some music, the best being Ja'King the Divine's 手术: BLACK SUN TZU:
+I go home and play through some music, the best being Ja'King the Divine's new album *手术: BLACK SUN TZU*:
 
 [ATTACK BY STRATAGEM](https://youtu.be/pcaCKUajYRs).
 
