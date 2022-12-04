@@ -6,3 +6,12 @@ title: introduction to diasyrmus
 	<h1>diasyrmus</h1>
 	<p>a melancholy emblem of parish cruelty</a></p>
 </div><!-- /.blurb -->
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
