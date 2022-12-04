@@ -21,7 +21,9 @@ Where do the old lyrics and new intonations connect with the musical territory i
  
 Alex Ward's clarinet finds the melodic phrasing David Thomas seems to crave this evening and creates some of the most striking, almost pastoral moments – a texas pastoral, a delta pastoral. It's strange and quite haunting, an element that doesn't exactly belong yet at several moments allows Ward and Thomas to come together perfectly in the aesthetic, symbolic landsape/space they're searching in.
 
-Afterwards a number of musicians in the audience express disgust at David Thomas' rudeness to his musicians on stage. They haven't been to many Pere Ubu gigs is one answer, maybe. Another is that Thomas is old, and ill, and extremely cantankerous. The other is that he's *dying* and has a *project* he wants to fulfil. He will never complete it of course, despite its professed periods, and stages and chapters. The low-level, attenuated music and slow intonation of the lyrics, makes the whole feel appropriately like a light gradually going out, and in that will be its mode and its further discovery, 
+Afterwards a number of musicians in the audience express disgust at David Thomas' rudeness to his musicians on stage. They haven't been to many Pere Ubu gigs is one answer, maybe. Another is that Thomas is old, and ill, and extremely cantankerous. But as a friend points out, he was cantankerous when he was young and fat. 
+
+The other is that he's *dying* and has a *project* he wants to fulfil. He will never complete it of course, despite its professed periods, and stages and chapters. The low-level, attenuated music and slow intonation of the lyrics, makes the whole feel appropriately like a light gradually going out, and in that will be its mode and its further discovery.
 
 and yes he'll be here forever and no we won't cry when he's gone. 
 
