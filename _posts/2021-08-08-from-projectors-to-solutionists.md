@@ -1,7 +1,7 @@
 ---
 layout: post
 title: from projectors to solutionists
-tags: history solutionists words anton_howes
+tags: history solutionists words
 date: 2021-08-08
 ---
 The historical meaning of words, the concepts and shades of meaing to which they refer, and the distinction between its usages over time is good history.
