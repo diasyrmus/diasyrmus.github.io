@@ -35,6 +35,12 @@ p {
     line-height: 1.4em;
     color: #333;
 }
+blockquote {
+    font-size: 1em;
+    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
+    border: 0 solid #ccc;
+    border-left-width:4px
+}
 li {
     font-size: 1em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
