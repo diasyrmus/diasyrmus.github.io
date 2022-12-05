@@ -30,7 +30,7 @@ Alex Ward's clarinet finds the melodic phrasing David Thomas seems to crave this
 
 Afterwards a number of musicians in the audience express disgust at David Thomas' rudeness to his musicians on stage. They haven't been to many Pere Ubu gigs is one answer, maybe. Another is that Thomas is old, and ill, and extremely cantankerous. But as a friend points out, he was cantankerous when he was young and fat. 
 
-The other is that he's dying and has a project he wants to x. He will never complete it of course, despite its professed periods, and stages and chapters. The low-level, attenuated music and slow intonation of the lyrics, makes the whole feel appropriately like a light gradually going out, and in that will be its mode and its further discovery.
+The other is that he's dying and has a project he wants to complete. He will never complete it of course, despite its professed periods, and stages and chapters. The low-level, attenuated music and slow intonation of the lyrics, makes the whole feel appropriately like a light gradually going out, and in that will be its mode and its further discovery.
 
 and yes he'll be here forever and no we won't cry when he's gone. 
 
