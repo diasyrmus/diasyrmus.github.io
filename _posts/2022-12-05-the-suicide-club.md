@@ -33,4 +33,4 @@ Of course there was nothing genuinely democratic about fascism, which despised p
 
 A reminder that recent Conservatism has been the most intensely and grotesquely populist, a baiting of sentiment as policy. A sort of craven authoritarianism.
 
-Finally it was good to spend a day doing actual work, enabled by cancelling a load of meetings. Ahead of next year, a promise to myself to do this more often.
+S a day doing actual work, enabled by cancelling a load of meetings. Ahead of next year, a promise to myself to do this more often.
