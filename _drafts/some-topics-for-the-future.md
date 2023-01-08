@@ -1,0 +1,8 @@
+In his book *Les Onze*, Pierre Michon described the fragments of images of his figmentary protagonist in paintings across time. The youthful image, possibly portrayed in Tiepolo's ceilings and murals in the Kaisersaal, Würzburg, is described in the most vivid psychological terms and generating equally vivid psychological responses, despite a nondescript appearance. One of this lines describes the figure, conjured up out of history and imagination, quasi fictional/historical as being 'enamoured of the future'. This phrase has been insisting itself into my mind since I read it because, i think, it seems very hard to imagine at the moment. That is to say, both in our conjuncture
+
+Sometimes I imagine my spatial and temporal co-ordinates to get a sense of where I am at that moment, the position from which I'm surveying the world, not unlike the address you might have put in your exercise book as a child at school, TW, London, England, Britain, The Earth, The Solar System, The Galaxy, The Universe: at a point in history – January day, 02023, in a place – in a park on a damp north western archipelago of the European continent, its politics as tattered and buffeted as its coast.
+
+Smart cities are already here, and 5g is going to make a difference.  
+Epistemic health: mimesis and memetics. Memetics are the cultural units of transmission, memetics the binary sorting mechanism. A garden of forking paths, coalescing into a bricolage-clad beliefs. Woke and Alt-Right.  
+Grotesque as the best guide to the dance of covid, and the broken brains.  
+Blockchain for media, self driving cars in factories.  
