@@ -1,6 +1,6 @@
 ---
 layout: post
-title: death and faith, notes from the last
+title: death and faith, notes from the past
 tags: past-notes death faith
 date: 2023-01-09
 ---
@@ -12,13 +12,18 @@ This happens to me once or twice a year, but is present in some aspect all the t
 I was reading a poem - not one I was enormously enjoying - when I came across a description that brought back erc 
 Two girls break into a swimming pool:
 
-> This we may presume: how they got in after hours, drunk,
+> This we may presume: how they got in after hours, drunk,  
+> 
 > daring each other to swim beneath the bluepgreen tar that
+> 
 > each night tucked the water up; how the first girl panicked
+> 
 > halfway under, tried to surface where the surface wasn't;
-
+> 
 > and the second, seeing the bump in the plastic, went in
+> 
 > to end up the same way, a second bump, trying to push off
+> 
 > the suck of the whole pool against the heavy sheet.
 
 As I say the poem itself didn't win me over - the pattern interference an intereference of metaphor and descriptive analogy that kept on missing the mark, giving it a monotonous feeling. 
