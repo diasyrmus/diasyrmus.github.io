@@ -9,7 +9,7 @@ An LRB [article](https://www.lrb.co.uk/the-paper/v45/n07/nicola-jennings/at-the-
 
 Huntington is described as 'more of a taxonomer' than the typical European masterpiece collector:
 
-'.. acquiring hundreds of thousands of objects to create "a broad outline without duplication" of Spanish and Hispanic art and culture.'
+> .. acquiring hundreds of thousands of objects to create 'a broad outline without duplication' of Spanish and Hispanic art and culture.
 
 *a broad outline without duplication* seems like a wonderful and Borgesian phrase to describe taxonomy, and in its inverse, other forms of collection - intensive duplication of a subject, with grey areas at the boundaries where the subject is visible in other groups, sets, families, phyla.
 
