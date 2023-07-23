@@ -1,10 +1,9 @@
-———
-
+---
 layout: post
 title: writing technique
 tags: writing
 date: 2023-07-23
-———
+---
 
 you might ask yourself as a writer “what has changed?” at the end of a story or novel (i’m not totally convinced that this always needs to be the case, as satire does something v different - what’s changed is the expulsion or destruction of “vice” but this is not dramatic, however certainly if you want to make something appealing you probably need to consider dramatic changes)
 
