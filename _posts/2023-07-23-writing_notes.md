@@ -5,7 +5,11 @@ tags: writing
 date: 2023-07-23
 ---
 
-you might ask yourself as a writer “what has changed?” at the end of a story or novel (i’m not totally convinced that this always needs to be the case, as satire does something v different - what’s changed is the expulsion or destruction of “vice” but this is not dramatic, however certainly if you want to make something appealing you probably need to consider dramatic changes)
+you might ask yourself as a writer “what has changed?” at the end of a story or novel (i’m not totally convinced that this always needs to be the case, as satire does something v different - what’s changed is the expulsion or destruction of “vice” but this is not dramatic, however certainly if you want to make something appealing you probably need to consider dramatic changes).
+
+revelations don’t always need to be something the characters experience or if they are they don’t need to be earth shattering as such. they can be a realisation or a slight twist of perspective. HdW is a master at this.
+
+## some nice changes in TEUW
 
 the turn at the end of the first chapter of *The English Understand Wool* where it turns out the narrator is actually writing for their editor.
 
