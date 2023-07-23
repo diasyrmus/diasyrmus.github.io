@@ -6,7 +6,7 @@ So he added the Aftershocks chapter to cover Trump, Ukraine, Greece, Hungary and
 
 In the talk, he confessed it had taken the intervention of his editor to stop him adding chapters on Turkey and Syria – he ended up [blogging these](https://adamtooze.com/?s=framing+crashed) as a series and as far as I can tell this was pretty much the start of him publicly becoming a 'historian of the current moment'. 
 
-The Adam Tooze production line is absurdly 
+The Adam Tooze production line is absurdly fecund, one might almost call it overproductive. It is somewhat frenetic.
 
 This of course produces some difficulties of analysis and accounting, though it helps him fill a role as one of the few visible public intellectuals around, and by and large he manages this role well enough. 
 
