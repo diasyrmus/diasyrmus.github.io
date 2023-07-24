@@ -5,9 +5,9 @@ tags: self-improvement, fear, anxiety, the_elk
 date: 2023-07-24
 ---
 
-read an elk thread on self-help, and i took it to heart
+read an elk thread on self-help, and i thought it was 
 
-particularly 
+particularly interesting.
 
 > I say this is an idiosyncratic method because it's keyed very much
 > to my personality. I like things that are either highly formal and
