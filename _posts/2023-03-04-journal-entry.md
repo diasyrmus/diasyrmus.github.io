@@ -5,7 +5,7 @@ tags: journal
 date: 2023-03-04
 ---
 
-Recently, things have been feeling better. Someone reached out and helped me mend myself, mentally, emotionally. To start to mend myself. 
+Recently, things have been feeling better. Someone reached out and helped me mend myself, mentally, emotionally. To start to mend myself. To help me start to mend myself. 
 
 I stopped taking SSRIs, and whether related or not, there has been more of a general sense of enjoyment. A retreat of the anhedonia I had been feeling. It is of course hard to pin anything on these feelings. I am trying not to run away with anything. Equally, I am trying not to deny agency and tangibility, a sense of possibility, with these feelings. Mirth, enjoyment at being on my bike, amusement, warmth, tenderness.
 
