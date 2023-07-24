@@ -36,4 +36,4 @@ it, ie a period of complete calm before or after.
 
 That these symptoms appear and also disappear in response to treatment desynchronously.
 
-The relation of anxiety to fear isn't yet clear to me. 
+The relation of anxiety to fear isn't yet clear to me from the book.
