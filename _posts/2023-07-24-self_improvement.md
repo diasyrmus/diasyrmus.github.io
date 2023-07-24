@@ -16,7 +16,7 @@ read an elk thread on self-help, and i thought it was particularly interesting.
 > synthesis in my own life and I'm skeptical of anyone else's ability
 > to do it.
 
-So i picked up a clinical psychology textbook on Anxiety by S Rachman,
+So i picked up a clinical psychology textbook, *Anxiety* by S Rachman,
 and immediately the value of the approach was clear. It was a learning
 process and it prompted personal engagement with that learning
 process. 
