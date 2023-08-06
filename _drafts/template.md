@@ -1,6 +1,14 @@
 ---
 layout: post
-title: title with spaces
-tags: 
-date: 0000-MT-DY
+title: the narrative of the country
+tags: media newspapers russia uk
+date: 2023-07-28
 ---
+
+a good line in *The Fence* from al-Jazeera’s one-time correspondent in Moscow about surveillance and media in an authoritarian state:
+
+> …there’s such a strong effort to shape the narrative of the country, and ordinary Russians’ understanding of who was in charge
+
+you need to be careful about taking things like this and applying them directly to your own country because you feel angry about eg.  authoritarianism or media control — the UK is not Russia. 
+
+that line though — “such a strong effort to shape the narrative of the country”. that resonates wrt the national papers. 
