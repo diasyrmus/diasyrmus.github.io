@@ -11,3 +11,5 @@ One particularly interesting comment in the film at the end, how the art world r
 I also liked a quoted comment as he moved from the figurative to the more abstract:
 
 > The trouble with recognisable art is that it excludes too much ... I want my work to include more. And 'more' also comprises one's doubts about the object, plus the problem, the dilemma of recognising it.'
+
+This sees to me to grasp the essential value of abstract art and reminds me that I should complete my reading of 'Transfiguration of the Commonplace' by Arthur Danto.
