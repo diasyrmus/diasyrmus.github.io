@@ -2,7 +2,7 @@
 layout: post
 title: impressionists and godzilla
 tags: journal
-hidden: true
+hidden:true
 date: 2024-01-02
 ---
 
