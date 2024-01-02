@@ -2,7 +2,6 @@
 layout: post
 title: philip guston and abstraction
 tags: journal, art
-hidden:false
 date: 2024-01-02
 ---
 
