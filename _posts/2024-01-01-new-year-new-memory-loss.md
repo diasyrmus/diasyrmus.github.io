@@ -2,6 +2,7 @@
 layout: post
 title: new year new memory loss
 tags: journal
+hidden:true
 date: 2024-01-01
 ---
 For the moment, I'm going with 'tired' to explain why I can't remember specific details of anything. It's like I'm accessing mush in my head whenever I try to retrieve information.
