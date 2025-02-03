@@ -1,0 +1,44 @@
+---
+title: reading
+date: 2025-02-03
+draft: "false"
+tags:
+  - books
+---
+i've had to put down _the confessions_ by catherine airey. there was a particular line, which I can't find now, which made me feel very strongly that it wasn't worth putting any more effort into reading. one thing - if your 2001 NYC teenager, and your 1970s Irish farming teenage girl, moving to NYC sound *exactly* the same apart from a shift in grammatical voice then I think it's a problem. these people should be exciting! and they are put in exciting or dramatic situations (eg inadvertently drop acid just before the twin towers). but the style - you can see the author very visibly behind the pasteboard masks. it's also extremely banal (a horrible word, but there it is). frankly i found myself longing for a bit of martin amis, and it's not often you hear me say that, but come on, let's have some *fireworks*. it's invidious really to quote quite innocuous excerpts, as this sort of thing is very unfair in isolation, 
+
+> ‘What can I get you both?’   
+> ‘I’ll have the poached eggs, please,’ Harold says, though you’re sure he never looked down at his menu.   
+> ‘I’m not really hungry,’ you say, which isn’t true, but you’ve been putting on weight from all the pancakes, said you’d give them up for Lent.   
+> ‘You eat eggs?’ Harold asks. He looks back at the waitress before you have a chance to answer. ‘Two poached eggs. And coffee.’ ‘Perfect.’   
+> The waitress takes the menu back from Harold then walks back towards the bar.
+
+: |
+
+It simply won't do. It really won't.   
+
+ i did think it was worth quoting the Pritchett I read, or part of it, at least in part to bring some enjoyment to my posts - i'm cavilling and carping a lot, which gets tedious very quickly. This is from the start of a story _A Careless Widow_:
+
+> After taking a two-mile walk across fields half-way up the headland, to break himself in, as he put it, on the first day of his holiday, Frazier got back to the hotel. He had a bath to get the last of London off his skin, then, avoiding the bar already crowded with golf players, he went out on to the terrace to be alone. He had been coming to this hotel for three or four years in the spring, a man who liked to stay in a place full of middle-aged people, many of them so well-known to one another that it was simple for him to avoid them and to be alone. Off he went to walk all day; off they went to the golf course or to drive about in their cars. If he was slightly known it was by his surname: 'Frazier with an"i" he would say with a piercing pedantic stare, giving a roll to his stone-blue eyes as he said it, like a tall schoolmaster mocking a boy. He was, in fact, a hairdresser who came to this lonely part of the Atlantic coast to slough off the name of Lionel, as he was called at the rather expensive *salon de coiffure* in London, where he was eagerly sought after. ('You know,' ladies said, 'how difficult it is to get an appointment with Lionel.') He was a tallish, slender man, not one of your sunken-chested barbers, gesticulating with comb and scissors as they skate about you, grown cynical with the flatteries of the trade. On the contrary, despite his doll's head of grey hair and the mesh of nervous lines on his long face, he was as still and as dispassionate as a soldier.
+
+I'm not even sure this is a first-rate Pritchett short story tbh - it's been a long time since I immersed myself in his Collected. But this was electrifying. First there is just a sense of fresh air of being outside the subject's head. Not entirely of course - but this is a writer who has absolute discipline and control over the boundaries, of the action and meaning of each individual sentence. So, 'to break himself in, *as he put it*, on the first day of his holiday,' which then allows further on, 'to get the last of London off his skin' without need to label this as his internal intent. There are no Amis style fireworks here of course; you'd almost call the writing plain, but it is emphatically not banal. There are traces of humour of course, as this is Pritchett. I particularly liked 'or to drive about in their cars.' Each sentence is in some way revelatory, either in establishing important matters - who he is, where he's from, and that this is a regular, well grooved experience for him (and therefore capable of dramatic disruption - immediately there is a tension - also from the fact that people do odd things when they detatch themselves from their day-to-day professional and social life) - or in surprising you - the fact he is a hairdresser. plus there is sharp insight of 'grown cynical with the flatteries of the trade' - an observation that has general human application, wider than just barbers. we feel it. this, in a microscopic way, is what real humanism is, and is part of why we read.
+
+This is writing on a hair trigger, to paraphrase Geoffrey Hill*. Therefore it defines 'slack' - to finally get round to answering your question, dow - through being its opposite.
+
+i'm really very firmly of the belief expressed in Éric Vuillard's _L'ordre du jour_** 'La littérature permet tout, dit-on'. You can, to put it as i do to myself more frequently, do whatever the hell you want with fiction, that's part of the point of it. but it needs to be done well, otherwise why bother reading it.***
+
+* He actually said 'this is language on a hair trigger' in his lecture ["Legal Fiction" and Legal Fiction](http://media.podcasts.ox.ac.uk/engfac/poetry/2013-03-21-engfac-poetry-hill-2.mp3) - because he's talking about the incredible pressures on language in intense political situations (he's talking about Robert Southwell's 1595 An humble supplication to her Maiestie, the year of his martyrdom), specifically what the word 'deem' is doing in various bits of prose. So this is more an IA Richards or Empsonian observation (eg in _The Structure of Complex Words_) and I'm not quite sure the Pritchett is quite so 'hair trigger' as all that, but it is *writing*, it is proper *writing*.
+
+** I've just picked this up again, but in French, partly to practice, but also because one of its main scenes, the opening scene, is how German capital paid willing, approving obeisance to Göring and Hitler. I liked this book - a _récit_as Vuillard would have it - a sort of visibly authorial guided tour of a subject - though I liked his similar _War of the Poor_ substantially less, feeling it was playing fast and loose with its matter, which retrospectively undermined my appreciation of L'ordre du jour. In other words, I'm sympathetic to [this TLS review](https://www.the-tls.co.uk/literature/fiction/in-the-great-hall)(£), which concludes:
+
+> This is not enlightening as history. At best it tells us what we already know in somewhat caricatural form. Nor is it memorable as literature, except perhaps to someone who knows nothing about the 1930s. But it did win the Prix Goncourt.
+
+However, I still like it, mainly because I am an *absolute sucker* for this sort of thing:
+
+> Le soleil est un astre froid. Son cœur, des épines de glace. Sa lumière, sans pardon. En février, les arbres sont morts, la rivière pétrifiée, comme si la source ne vomissait plus d'eau et que la mer ne pouvait en avaler davantage. Le temps se fige. Le matin, pas un bruit, pas un chant d'oiseau, rien. Puis, une automobile, une autre, et soudain des pas, des silhouettes qu'on ne peut pas voir. Le régisseur a frappé trois coups mais le rideau ne s'est pas levé.
+> 
+> (The sun is a cold star. Its heart, spines of ice. Its light, unforgiving. In February, the trees are dead, the river petrified, as if the springs had stopped spewing water and the sea could swallow no more. Time freezes. In the morning, not a sound, not even birdsong. Then an automobile, and another, and suddenly footsteps, unseen silhouettes. The play is about to begin, but the curtain won’t rise.)
+
+That spectral start. Those cadences. Plug it into my veins. Possibly in its own gallic manner this is as facile as the prose about which I'm grumbling, which again is only to say what should be obvious - that it's really always in the end about what you enjoy, not apodictic notions of 'good' or 'bad' writing. 
+
+*** When i set out to free myself from what i felt was a stifling pre-occupation with the classics, the broad graduate canon, and read more that was happening now, I recognised this would mean reading more that was not so good, mediocre or even downright dross, and that when reading i should, as well as responding to the less good, make a conscious effort to identify what succeeded, what was interesting or good. i'm not doing that at the moment, and i should try harder, i think, but as i say, right now, i'm not in the mood, and am a bit exasperated.
