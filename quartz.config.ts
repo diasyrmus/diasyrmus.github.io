@@ -60,10 +60,6 @@ const config: QuartzConfig = {
       Plugin.CreatedModifiedDate({
         priority: ["frontmatter", "filesystem"],
       }),
-      Plugin.SortByDate({
-      //sort in reverse chronological order
-      reverse: true
-      })
       Plugin.SyntaxHighlighting({
         theme: {
           light: "github-light",
