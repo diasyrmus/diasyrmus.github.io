@@ -67,6 +67,11 @@ const config: QuartzConfig = {
         },
         keepBackground: false,
       }),
+        plugins: {
+      Plugin.SortByDate({
+        // Sort in reverse chronological order (newest first)
+        reverse: true
+      })
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
@@ -92,13 +97,4 @@ const config: QuartzConfig = {
   },
 }
 
-export default defineConfig({
-  plugins: {
-    transformers: [
-      Plugin.SortByDate({
-        // Sort in reverse chronological order (newest first)
-        reverse: true
-      })
-    ]
-  }
-})
+export default
