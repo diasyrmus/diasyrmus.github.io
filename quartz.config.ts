@@ -54,7 +54,7 @@ const config: QuartzConfig = {
       },
     },
   },
-  plugins: {
+  plugins: [
     transformers: [
       Plugin.FrontMatter(),
       Plugin.CreatedModifiedDate({
