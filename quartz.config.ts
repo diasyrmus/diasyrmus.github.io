@@ -92,4 +92,13 @@ const config: QuartzConfig = {
   },
 }
 
-export default config
+export default defineConfig({
+  plugins: {
+    transformers: [
+      Plugin.SortByDate({
+        // Sort in reverse chronological order (newest first)
+        reverse: true
+      })
+    ]
+  }
+})
