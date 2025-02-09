@@ -27,8 +27,8 @@ it was earlier last year i realise that i was often tired to the point of exhaus
 
 And that i wasn't able to do anything outside that anxiety. It was like a jumping nerve in my body, i was in perpetual fight or flight mode, paying attention to every piece of information.
 
-> your brain cracks each day from information anxiety
-> 	*Don't Take the Pizza* – The Fall  
+> your brain cracks each day from information anxiety  
+> 	*Don't Take the Pizza* – The Fall
 
 And it is easy to get addicted to that feeling... or rather, it is hard to know what to do without it driving an immediate sense of purpose. We become thin, etiolated, or flabby yet jejune, suffering from *anomie*.
 
