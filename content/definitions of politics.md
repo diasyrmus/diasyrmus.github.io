@@ -16,3 +16,10 @@ I’d add
 
 * solving problems of co-ordination
 * and one other that i’ve forgotten for the moment
+
+oh and i guess, with Weber in mind, for definition of politics in government and again drawing down on Tooze:
+
+* coercion
+* collective will formation
+* laws
+* technical function 
