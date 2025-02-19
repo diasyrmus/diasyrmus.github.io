@@ -1,6 +1,8 @@
 ---
 title: three questions
 date: 2025-02-10
+tags:
+  - thinking
 ---
 * What am I doing? 
 * How is it going?
