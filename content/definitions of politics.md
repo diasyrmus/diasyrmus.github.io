@@ -9,8 +9,9 @@ Politics is about
 * fundamental questions of ideology 
 * the definition of friends and enemies 
 * the constitution of majorities so as to enable political action
-
+https://youtu.be/3jD4wz0yLMM?si=uTB77rfPY_lPYilQ
 *Adam Tooze (Ones and Tooze: How Scary is DOGE?, 14 Feb 2025)*
+
 
 I’d add
 
@@ -23,3 +24,9 @@ oh and i guess, with Weber in mind, for definition of politics in government and
 * collective will formation
 * laws
 * technical function 
+
+Stephen Bush in the FT on Badenoch:
+
+> First, she must recognise that like countries, politicians do not have permanent enemies or allies — they have interests.
+
+https://on.ft.com/4gX5CWg
