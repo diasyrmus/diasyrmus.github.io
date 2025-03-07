@@ -2,6 +2,8 @@
 title: bird
 date: 2025-01-10
 draft: "true"
+tags:
+  - film
 ---
 If you believe in the overwhelming importance of people's faces in cinema, (actor)'s face is a hell of a face to put at the centre of your film: vulnerable and assertive, visibly hiding behind itself, necessarily reserved about its own feelings, reflecting what's going on around it.
 
