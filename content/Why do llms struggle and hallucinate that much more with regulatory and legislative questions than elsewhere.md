@@ -20,9 +20,7 @@ Asked Claude:
 >
 >There is empirical evidence suggesting this is a real phenomenon rather than just your impression. Research has shown that LLMs tend to perform worse on tasks requiring deep domain knowledge in specialized fields like law compared to more general reasoning tasks.
 
-The challenge is particularly pronounced when asking about specific provisions or requirements rather than general principles. Models might confidently generate plausible-sounding but incorrect interpretations of regulatory requirements, which is especially concerning in a domain where accuracy is crucial.
-
-Would you be interested in discussing strategies for getting better regulatory information from LLMs, or is there a particular regulatory domain you're curious about?
+> The challenge is particularly pronounced when asking about specific provisions or requirements rather than general principles. Models might confidently generate plausible-sounding but incorrect interpretations of regulatory requirements, which is especially concerning in a domain where accuracy is crucial
 
 > Contextual understanding of interconnected documents presents several fundamental challenges for LLMs:
 >
@@ -43,3 +41,30 @@ Would you be interested in discussing strategies for getting better regulatory i
 >8. **Implicit knowledge** - Legal documents often assume knowledge of standard practices, conventions, and interpretations that aren't explicitly stated but are essential for proper understanding.
 >
 This complexity is particularly challenging because errors compound - misunderstanding one document or relationship often leads to incorrect interpretations of other connected documents, creating a cascade of reasoning failures.
+
+Strategies for managing this:
+
+> To get reliable legislative information from LLMs, I recommend these approaches:
+
+>1. **Use explicit framing** - Start with "According to [specific legislation/regulation]..." to constrain the model's response to a particular source.
+  >  
+>2. **Request step-by-step analysis** - Ask the model to first identify the relevant laws, then explain its understanding of them, and finally apply them to your specific situation.
+  >  
+>3. **Ask for direct citations** - Request specific section numbers, paragraph references, and exact quotes from the legislation.
+  >  
+>4. **Verify with multiple queries** - Cross-check by asking related questions that would reveal inconsistencies in the model's understanding.
+  >  
+>5. **Request confidence levels** - Ask the model to indicate its confidence in different parts of its response.
+  >  
+>6. **Use triangulation** - Ask the same question in different ways to see if you get consistent answers.
+  >  
+>7. **Break complex questions into smaller components** - This helps the model focus on specific aspects rather than synthesizing complex legal information.
+  >  
+>8. **Request sources for verification** - Ask for official government websites or databases where you can verify the information.
+  >  
+>9. **Challenge the model's reasoning** - Ask "What might be incorrect about your analysis?" to encourage critical reflection.
+    >
+>10. **Combine LLM assistance with traditional research** - Use the LLM to help you navigate to the right sources, but verify crucial details through official legal resources.
+    
+
+Remember that no matter how sophisticated the approach, LLM outputs should always be treated as starting points for legal research, not as definitive legal advice. For critical legal matters, consulting with a qualified legal professional remains essential.
