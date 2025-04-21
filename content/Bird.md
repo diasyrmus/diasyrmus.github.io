@@ -1,7 +1,7 @@
 ---
 title: bird
 date: 2025-01-10
-draft: "true"
+draft: "false"
 tags:
   - film
 ---

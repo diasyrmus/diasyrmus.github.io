@@ -3,6 +3,7 @@ title: Why do llms struggle and hallucinate that much more with regulatory and l
 date: 2025-03-09
 tags:
   - ai
+draft: "false"
 ---
 Asked Claude:
 

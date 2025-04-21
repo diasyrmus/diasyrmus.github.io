@@ -3,6 +3,7 @@ title: definitions of politics
 date: 2025-02-15
 tags:
   - politics
+  - concepts
 ---
 Politics is about 
 * making complex choices 
