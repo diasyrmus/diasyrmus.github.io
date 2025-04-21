@@ -1,8 +1,7 @@
 ---
 title: concepts
 date: 2025-04-21
-tags:
-  - "true"
+draft: "false"
 ---
 ``` dataview
 TABLE title, date, draft 
