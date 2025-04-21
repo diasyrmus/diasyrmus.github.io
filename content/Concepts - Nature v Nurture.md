@@ -24,7 +24,7 @@ tags:
 
 ## Background Detail
 
-Michael Tomasello's contention in [[*The Evolution of Agency*]] is that the nature-nurture debate is an unhelpful remnant of behaviourist psychology.
+Michael Tomasello's contention in [[The Evolution of Agency]] is that the nature-nurture debate is an unhelpful remnant of behaviourist psychology.
 
 Nurture implies inherited characteristics that are in some way outside of our individual control, nature implies characteristics learned as living, learning organisms from the point of our emergence into the world (I guess) or our local environment. The latter are seen to contribute to our more or less unique composition as thinking individuals with will, or agency.
 

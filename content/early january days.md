@@ -2,7 +2,7 @@
 title: early january days
 tags:
   - journal
-draft: "true"
+draft: "false"
 date: 2025-01-03
 ---
 Today, like yesterday, is bright as a pin. Temperatures hovering around freezing. Hair freshly shorn, and an hour or so of French homework in front of me. I really need to polish up on my verb conjugations.
