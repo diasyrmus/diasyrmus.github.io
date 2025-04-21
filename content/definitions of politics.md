@@ -12,7 +12,7 @@ Politics is about
 * the definition of friends and enemies 
 * the constitution of majorities so as to enable political action  
 
-{{< https://youtu.be/3jD4wz0yLMM?si=uTB77rfPY_lPYilQ >}}
+![https://youtu.be/3jD4wz0yLMM?si=uTB77rfPY_lPYilQ](https://youtu.be/3jD4wz0yLMM?si=uTB77rfPY_lPYilQ)
 
 *Adam Tooze (Ones and Tooze: How Scary is DOGE?, 14 Feb 2025)*
 
