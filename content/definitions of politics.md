@@ -11,7 +11,7 @@ Politics is about
 * the definition of friends and enemies 
 * the constitution of majorities so as to enable political action  
 
-https://youtu.be/3jD4wz0yLMM?si=uTB77rfPY_lPYilQ
+{{< https://youtu.be/3jD4wz0yLMM?si=uTB77rfPY_lPYilQ >}}
 
 *Adam Tooze (Ones and Tooze: How Scary is DOGE?, 14 Feb 2025)*
 
@@ -28,8 +28,7 @@ oh and i guess, with Weber in mind, for definition of politics in government and
 * laws
 * technical function 
 
-Stephen Bush in the FT on Badenoch:
+[Stephen Bush in the FT](https://on.ft.com/4gX5CWg) on Badenoch:
 
 > First, she must recognise that like countries, politicians do not have permanent enemies or allies — they have interests.
 
-https://on.ft.com/4gX5CWg
