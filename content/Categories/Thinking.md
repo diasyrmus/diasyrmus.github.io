@@ -1,6 +1,6 @@
 ---
 title: thinking
-draft: "false"
+draft: "true"
 date: 2025-04-21
 ---
 ``` dataview

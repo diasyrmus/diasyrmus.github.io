@@ -1,6 +1,6 @@
 ---
 title: journal
-draft: "false"
+draft: "true"
 ---
 ``` dataview
 TABLE title, date, draft 
