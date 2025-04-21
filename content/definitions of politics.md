@@ -4,6 +4,7 @@ date: 2025-02-15
 tags:
   - politics
   - concepts
+draft: "false"
 ---
 Politics is about 
 * making complex choices 
