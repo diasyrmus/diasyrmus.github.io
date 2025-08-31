@@ -11,7 +11,7 @@ draft: "false"
 ---
 ## Summary
 
-From [[Descartes' Error: Emotion, Reason and the Human Brain]] by [Antonio Damasio](https://www.penguin.co.uk/books/391857/descartes-error-by-damasio-antonio/9780099501640)
+From [[Descartes' Error]] by [Antonio Damasio](https://www.penguin.co.uk/books/391857/descartes-error-by-damasio-antonio/9780099501640)
 
 > In conclusion, emotion is the combination of a mental evaluative process, simple or complex, with dispositional responses to that process, **mostly toward the body proper, resulting in an emotional body state, but also toward the brain itself (neurotransmitter nuclei in brain stem), resulting in additional mental changes**. Note that, for the moment, I leave out of emotion the perception of all the changes that constitute the emotional response. As you will soon discover, I reserve the term feeling for the experience of those changes.
 > [^4]
