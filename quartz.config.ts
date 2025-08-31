@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "null",
     },
     locale: "en-GB",
-    baseUrl: "https://diasyrmus.github.io/diasyrmus",
+    baseUrl: "https://diasyrmus.github.io",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "CreatedModifiedDate",
     generateSocialImages: true,
