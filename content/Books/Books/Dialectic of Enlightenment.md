@@ -1,0 +1,141 @@
+# Dialectic of Enlightenment
+
+![rw-book-cover](https://m.media-amazon.com/images/I/81XduTUKAUL._SY160.jpg)
+
+## Metadata
+- Author: [[Max Horkheimer, Theodor W. Adorno]]
+- Full Title: Dialectic of Enlightenment
+- Category: #books
+
+## Highlights
+- knowledge, in the present collapse of bourgeois civilization ([Location 83](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=83))
+    - Tags: [[pink]] 
+- thought. If it voluntarily leaves behind its critical element to become a mere means in the service of an existing order, it involuntarily tends to transform the positive cause it has espoused into something negative and destructive. ([Location 91](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=91))
+    - Tags: [[pink]] 
+- Such metamorphoses of critique into affirmation do not leave theoretical content untouched; its truth evaporates. ([Location 95](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=95))
+    - Tags: [[pink]] 
+- The process to which a literary text is subjected, if not in the automatic foresight of its producer then through the battery of readers, publishers, adapters, and ghost writers inside and outside the editorial office, outdoes any censor in its thoroughness. ([Location 101](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=101))
+    - Tags: [[pink]] 
+    - Note: one use of the obscene - to be a canary for this sort of tampering
+- To render their function entirely superfluous appears, despite all the benevolent reforms, to be the ambition of the educational system. ([Location 103](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=103))
+    - Tags: [[pink]] 
+- that system is preparing arid ground for the greedy acceptance ([Location 105](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=105))
+    - Tags: [[pink]] 
+    - Note: does he mean fertile ground or unreceptive ground? context suggests former.
+- petitio principii—that ([Location 110](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=110))
+    - Tags: [[pink]] 
+- In the mysterious willingness of the technologically educated masses to fall under the spell of any despotism, in its self-destructive affinity to nationalist paranoia, in all this uncomprehended senselessness the weakness of contemporary theoretical understanding is evident. ([Location 114](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=114))
+    - Tags: [[pink]] 
+- The loyal son of modern civilization’s fear of departing from the facts, which even in their perception are turned into clichés by the prevailing usages in ([Location 121](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=121))
+    - Tags: [[pink]] 
+- science, business, and politics, is exactly the same as the fear of social deviation. ([Location 122](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=122))
+    - Tags: [[pink]] 
+- False clarity is only another name for myth. ([Location 127](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=127))
+    - Tags: [[pink]] 
+- The enslavement to nature of people today cannot be separated from social progress. The increase in economic productivity which creates the conditions for a more just world also affords the technical apparatus and the social groups controlling it a disproportionate ([Location 129](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=129))
+    - Tags: [[pink]] 
+- advantage over the rest of the population. ([Location 130](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=130))
+    - Tags: [[pink]] 
+- The flood of precise information ([Location 136](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=136))
+    - Tags: [[pink]] 
+- What is at stake is not conservation of the past but the fulfillment of past hopes. ([Location 138](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=138))
+    - Tags: [[pink]] 
+- That the hygienic factory and everything pertaining to it, Volkswagen* and the sports palace, are obtusely liquidating metaphysics does not matter in itself, but that these things are themselves becoming metaphysics, an ideological curtain,* within the social whole, behind which real doom is gathering, ([Location 145](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=145))
+    - Tags: [[pink]] 
+- does matter. That is the basic premise of our fragments. ([Location 147](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=147))
+    - Tags: [[pink]] 
+- Bacon, “the father of experimental philosophy,”1 brought these motifs together. He despised the exponents of tradition, who substituted belief for knowledge and were as unwilling to doubt as they were reckless in supplying answers. ([Location 181](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=181))
+    - Note: the beginning of the statistical turn
+- The “happy match” between human understanding and the nature of things that he envisaged is a patriarchal one: the mind, conquering superstition, is to rule over disenchanted nature. ([Location 191](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=191))
+    - Note: #nature
+- Technology is the essence of this knowledge. It aims to produce neither concepts nor images, nor the joy of understanding, but method, exploitation of the labor of others,* capital. ([Location 195](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=195))
+    - Note: tech as the method by which science is turned into capital
+- What human beings seek to learn from nature is how to use it to dominate wholly both it and human beings. ([Location 198](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=198))
+- The disenchantment of the world means the extirpation of animism. ([Location 207](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=207))
+- and the latest logic denounces the words of language, which bear the stamp of impressions, as counterfeit coin that would be better replaced by neutral counters. ([Location 208](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=208))
+    - Note: bizlang
+- idola theatri ([Location 214](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=214))
+- The moist, the undivided, the air and fire which they take to be the primal stuff of nature are early rationalizations precipitated from the mythical vision. ([Location 217](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=217))
+- In the authority of universal concepts the Enlightenment detected a fear of the demons through whose effigies human beings had tried to influence nature in magic rituals. ([Location 222](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=222))
+- From now on matter was finally to be controlled without the illusion of immanent powers or hidden properties. ([Location 224](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=224))
+- Once the movement is able to develop unhampered by external oppression, there is no holding it back. Its own ideas of human rights then fare no better than the older universals. ([Location 225](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=225))
+- Enlightenment has always regarded anthropomorphism, the projection of subjective properties onto nature, as the basis of myth. ([Location 229](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=229))
+    - Tags: [[favorite]] 
+    - Note: tho seee wittgenstein's criticisms of frazer.
+- Despite the pluralism of the different fields of research, Bacon’s postulate of una scientia universalis7 is as hostile to anything which cannot be connected as Leibniz’s mathesis universalis is to discontinuity. ([Location 237](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=237))
+    - Note: those things that 'cannot be connected' simply either do not exist or are wrong.
+- The multiplicity of forms is reduced to position and arrangement, history to fact, things to matter. ([Location 239](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=239))
+    - Note: see jared diamond + also see wb on histkoricism
+- Formal logic was the high school of unification. It offered Enlightenment thinkers a schema for making the world calculable. ([Location 242](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=242))
+- number became enlightenment’s canon. ([Location 243](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=243))
+- Bourgeois society is ruled by equivalence. It makes dissimilar things comparable by reducing them to abstract quantities. ([Location 247](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=247))
+- All gods and qualities must be destroyed. ([Location 249](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=249))
+- Myth sought to report, to name, to tell of origins—but therefore ([Location 251](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=251))
+- also to narrate, record, explain. ([Location 251](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=251))
+    - Note: data or numbers or information are not in themselves explanatory
+- Each ritual contains a representation of how things happen and of the specific process which is to be influenced by magic. ([Location 252](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=252))
+- contracts to a monad, a mere reference point—and ([Location 258](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=258))
+- Only those who subject themselves utterly pass muster with the gods. The awakening of the subject is bought with the recognition of power ([Location 266](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=266))
+- as the principle of all relationships. In face of the unity of such reason the distinction between God and man is reduced to an irrelevance, as reason has steadfastly indicated since the earliest critique of Homer. In their mastery of nature, the creative God and the ordering mind are alike. Man’s likeness to God consists in sovereignty over existence, in the lordly gaze, in the command. ([Location 267](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=267))
+- Myth becomes enlightenment and nature mere objectivity. Human beings purchase the increase in their power with estrangement from that over which it is exerted. ([Location 270](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=270))
+    - Note: this is presumably the dialectic and relates to his point about enlightenment producing myth
+      I mean he did also say that enlightenment destroyed myth
+      also this is romanticism
+- Enlightenment stands in the same relationship to things as the dictator to human beings. He knows them to the extent that he can manipulate them. ([Location 271](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=271))
+    - Tags: [[favorite]] 
+- This identity constitutes the unity of nature. ([Location 273](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=273))
+    - Tags: [[pink]] 
+    - Note: interesting from a romance pov. monism and immanence are substrates of dominance? nature is fragmented in the Novalis sense.
+- mask. It is the identity of mind and its correlative, the unity of nature, which subdues the abundance of qualities. ([Location 280](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=280))
+    - Tags: [[pink]] 
+- Science puts an end to this. In it there is no specific representation: something which is a sacrificial animal cannot be a god. Representation gives way to universal fungibility. ([Location 287](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=287))
+    - Note: the thing is the thing
+- every definite theoretical view is subjected to the annihilating criticism that it is only a belief, ([Location 304](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=304))
+    - Tags: [[pink]] 
+    - Note: it is "only a belief" in relation to "the facts of the matter". this is definitely a problem.
+- In myths, everything that happens must atone for the fact of having happened. It is no different in enlightenment: no sooner has a fact been established than it is rendered insignificant. ([Location 311](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=311))
+    - Tags: [[pink]] 
+    - Note: what the fuck you niggaz mean.
+- Enlightenment dissolves away the injustice of the old inequality of unmediated mastery, ([Location 322](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=322))
+    - Tags: [[pink]] 
+    - Note: yes!
+- The blessing that the market does not ask about birth is paid for in the exchange society by the fact that the possibilities conferred by birth are molded to fit the production of goods that can be bought on the market. Each human being has been endowed with a self of his or her own, different from all others, so that it could all the more surely be made the same. ([Location 325](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=325))
+    - Tags: [[pink]] 
+- enlightenment throughout the liberalistic period has always sympathized with social coercion. ([Location 328](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=328))
+    - Tags: [[pink]] 
+    - Note: i mean, commmidification of culture maybe. coercion as putting place frameworks of medicine and social frameworks less?
+- The horde, a term which doubtless* is to be found in the Hitler Youth organization, is not a relapse into the old barbarism but the triumph of repressive égalité, ([Location 330](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=330))
+    - Tags: [[pink]] 
+- The fake myth of fascism reveals itself as the genuine myth of prehistory, in that the genuine myth beheld retribution while the false one wreaks it blindly on its victims. ([Location 331](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=331))
+    - Tags: [[pink]] 
+- Under the leveling rule of abstraction, which makes everything in nature repeatable, and of industry, for which abstraction prepared the way, the liberated finally themselves become the “herd” (Trupp), which Hegel16 identified as the outcome of enlightenment. ([Location 335](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=335))
+    - Tags: [[pink]] 
+- The concept, usually defined as the unity of the features of what it subsumes, was rather, from the first, a product of dialectical thinking, in which each thing is what it is only by becoming what it is not. ([Location 367](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=367))
+    - Tags: [[pink]] 
+- Enlightenment is mythical fear radicalized. ([Location 373](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=373))
+    - Tags: [[pink]] 
+    - Note: come on srsly
+- than a form of universal taboo. ([Location 374](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=374))
+    - Tags: [[pink]] 
+    - Note: presumably by denying the thing in itself and defining that thing in terms of its fungibility, as constitution as a resource or capability of belonging to a category.
+- The step from chaos to civilization, in which natural conditions exert their power no longer directly but through the consciousness of human beings, ([Location 387](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=387))
+    - Tags: [[pink]] 
+- The very renunciation of external effects by which art is distinguished from magical sympathy binds art only more deeply to the heritage of magic. ([Location 421](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=421))
+    - Tags: [[pink]] 
+- The work of art constantly reenacts the duplication by which the thing appeared as something spiritual, a manifestation of mana. That constitutes its aura. ([Location 424](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=424))
+    - Tags: [[pink]] 
+- art. Where it restricted knowledge, it generally did so to make room for faith, not art. ([Location 429](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=429))
+    - Tags: [[pink]] 
+- The attempt made by faith under Protestantism to locate the principle of truth, which transcends faith and without which faith cannot exist, directly in the word itself, as in primeval times, and to restore the symbolic power of the word, was paid for by obedience to the word, but not in its sacred form. ([Location 432](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=432))
+    - Tags: [[pink]] 
+    - Note: yes! something i agree with here. see stevenson' shepherd. the birth of the literate mobilised working class was protestantism?
+- Because faith is unavoidably tied to knowledge as its friend or its foe, faith perpetuates the split in the struggle to overcome knowledge: its fanaticism is the mark of its untruth, the objective admission that anyone who only believes for that reason no longer believes. ([Location 434](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=434))
+- The paradox of faith degenerates finally into fraud, the myth of the twentieth century* and faith’s irrationality into rational organization in the hands of the utterly enlightened as they steer society toward barbarism. ([Location 442](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=442))
+- Even the deductive form of science mirrors hierarchy and compulsion. Just as the first categories represented the organized tribe and its power over the individual, the entire logical order, with its chains of inference and dependence, the superordination and coordination of concepts, is founded on the corresponding conditions in social reality, that is, on the division of labor. ([Location 460](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=460))
+    - Note: the *entire* logical order based on these principles - the principles of hierarchy and power, and ordering and obedience.
+- The power of all the members of society, to whom as individuals no other way is open, is constantly summated, through the division of labor imposed on them, ([Location 467](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=467))
+    - Note: fair
+- Concepts in face of enlightenment are like those living on unearned income in face of industrial trusts:* ([Location 484](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=484))
+    - Note: is tbis like saying its ok to have buklshit like this
+- already equates probability with essence. ([Location 485](https://readwise.io/to_kindle?action=open&asin=B011U1P03Y&location=485))
+    - Note: sgats!
