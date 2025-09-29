@@ -1,6 +1,7 @@
 ---
 title: touch the text each day
-tags: journal, writing, reading
+tags:
+  - journal
 date: 2025-01-01
 ---
 > Touch the text each day

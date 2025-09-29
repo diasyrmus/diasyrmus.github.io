@@ -1,7 +1,7 @@
 ---
 title: A Faceful of Aesthetics
 date: 2025-08-30
-draft: "true"
+draft: "false"
 tags:
   - phrases
   - journal
