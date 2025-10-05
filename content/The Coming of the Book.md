@@ -1,5 +1,5 @@
 ---
-title: The Coming of the Book Notes 1
+title: The Coming of the Book (Manuscripts)
 draft: "false"
 date: 2025-10-05
 tags:
@@ -25,5 +25,17 @@ rather a 'and this is how it relates to today' linkedin sorta point, but it does
 
 it does change things over time, and you fall behind if you don't do it, but the cost-benefit of change is rarely clear for established technologies. 
 
+update:
+so i was being a bit dumb here. the chapter concerns the secular age and the “new organisations” are the institutions and entities outside the monastic responsible for the creation of manuscripts and books. 
+donc, les questions sont quelles organisations produisaient les livres et d’où sont-il apparu ? et pourquoi ? pour quelle raison ?
 
+la réponse : 
+* les universités et l’institutions de loi. 
+* les aristocrates n’achetaient plus des manuscrits  des monastères 
+* l’apparition d’une bourgeoisie avec une augmentation de demande pour les romances, la littérature, les traités de morale et cetera, qui a généré les affaires pour les libraires
 
+the importance of preventing the transmission of errors
+and what about the “laundered” errors that AI introduces?
+
+> perhaps the new media of our age, broadcasting and the cinema, may help us grasp how ideas and works can be transmitted without passing through the medium of print
+> p 23
