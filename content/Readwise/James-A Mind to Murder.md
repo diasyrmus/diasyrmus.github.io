@@ -1,0 +1,27 @@
+---
+kindle-bookId: '45782'
+kindle-title: A Mind to Murder (Adam Dalgliesh Book 2)
+kindle-author: P. D. James
+kindle-highlightsCount: 3
+kindle-asin: B002RI9YFA
+kindle-lastAnnotatedDate: '2023-11-20'
+kindle-bookImageUrl: 'https://m.media-amazon.com/images/I/91LEaQRsdnL._SX1024.jpg'
+---
+# A Mind to Murder
+## Metadata
+* Author: [P. D. James](https://amazon.co.uk//P-D-James/e/B000AP5NPM/ref=aufs_dp_fta_an_dsk)
+* ASIN: B002RI9YFA
+* ISBN: 0571248896
+* Reference: https://amazon.co.uk/dp/B002RI9YFA
+* [Kindle link](kindle://book?action=open&asin=B002RI9YFA)
+
+## Highlights
+In the medical director’s room two hours later, Dalgliesh placed three black metal boxes on Dr Etherege’s desk. The boxes, which had small round holes punched in each of the shorter sides, were packed with buff-coloured cards. It was the clinic diagnostic index. Dalgliesh said: ‘Mrs Bostock has explained this to me. If I’ve understood her correctly, each of these cards represents a patient. The information on the case record is coded and the patient’s code punched on the card. The cards are punched with even rows of small holes and the space between each hole is numbered. By punching any number with the hand machine I cut out the card between the two adjacent holes to form an oblong slit. If this metal rod is then inserted through, say, hole number 20 on the outside of the box, and pushed right through the cards, and the box is rotated, any card which has been punched through that number will stand out. It is, in fact, one of the simplest of the many punch-card systems on the market.’ — location: [2338](kindle://book?action=open&asin=B002RI9YFA&location=2338) ^ref-17631
+
+---
+‘You appreciate, Superintendent, that the case records are confidential?’ ‘I’m not asking to see a single case record. But if I did I don’t think either you or the patient need worry. Shall we get started? We can take out our class 1 patients. Perhaps you would call out the codes for me.’ A considerable number of the Steen patients were in class 1. ‘Upper-class neuroses catered for only,’ thought Dalgliesh. He surveyed the field for a moment and then said: ‘If I were the blackmailer would I choose a man or a woman? It would depend on my own sex probably. A woman might pick on a woman. But, if it’s a question of a regular income a man is probably a better bet. Let’s take out the males next. I imagine our victim will live out of London. It would be risky to select an ex-patient who could too easily succumb to the temptation to pop into the clinic and let you know what was going on. I think I’d select my victim from a small town or village.’ The medical director said: ‘We only coded the country if it were an out-London address. London patients are coded by borough. Our best plan will be to take out all the London addresses and see what’s left.’ This was done. The number of cards still in the survey was now only a few dozen. Most of the Steen patients, as might be expected, came from the county of London. Dalgliesh said: ‘Married or single? It’s difficult to decide whether one or the other would be most vulnerable. Let’s leave it open and start on the diagnosis. This is where I need your help particularly, Doctor. I realize this is highly confidential information. I suggest that you call out the codes for the diagnoses or symptoms which might interest a blackmailer. I don’t want details.’ Again the medical director paused. Dalgliesh waited patiently, metal rod in hand, while the doctor sat in silence, the code book open before him. He seemed not to be seeing it. After a minute he roused himself and focused his eyes on the page. He said quietly: ‘Try codes 23, 68, 69 and 71.’ There were now only eleven cards remaining. Each of them bore a case record number on the top right-hand margin. — location: [2386](kindle://book?action=open&asin=B002RI9YFA&location=2386) ^ref-27521
+
+---
+said: ‘This is as far as we can go — location: [2401](kindle://book?action=open&asin=B002RI9YFA&location=2401) ^ref-32827
+
+---

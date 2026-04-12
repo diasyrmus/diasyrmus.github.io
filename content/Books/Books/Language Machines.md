@@ -1,3 +1,10 @@
+---
+tags:
+  - ai
+  - ontological_uncertainty
+  - language
+---
+
 # Language Machines
 
 ![rw-book-cover](https://m.media-amazon.com/images/I/91yYQBzzj4L._SY160.jpg)
