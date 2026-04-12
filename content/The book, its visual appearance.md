@@ -1,3 +1,13 @@
+---
+title: the book, its visual appearance
+date: 2026-04-12
+tags:
+  - books
+  - tcotb
+draft: "false"
+---
+
+
 the victory of the romanesque over the gothic
 
 p99 the persistence of popular texts into the 17th and 18th centuries and the popularity and revival of them when more people could read in the 19th. persistence of generational memory. 
