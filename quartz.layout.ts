@@ -26,8 +26,9 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
-    // Desktop/tablet: full sidebar. Mobile: only backlinks (content-first).
-    Component.DesktopOnly(Component.RecentNotes()),
+    // RecentNotes and Backlinks show on all screen sizes — they are content.
+    // Graph and ToC are desktop-only (don't translate well to small screens).
+    Component.RecentNotes(),
     Component.DesktopOnly(Component.Graph()),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
