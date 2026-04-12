@@ -19,6 +19,6 @@ the mixture of “sacrilege” and “fear for job” with related pleas to “a
 gargantua in gothic bastarda
 
 ---
-*Part of a reading sequence:* [[The Coming of the Book (Manuscripts)|The Coming of the Book]] · [[The Introduction of Paper into Europe]] · [[The book, its visual appearance]]
+*Part of a reading sequence:* [[The Coming of the Book]] · [[The Introduction of Paper into Europe]] · [[The book, its visual appearance]]
 
 *On how new technologies lack vocabulary for themselves at first:* [[from projectors to solutionists]] · [[Why do llms struggle and hallucinate that much more with regulatory and legislative questions than elsewhere|Why do LLMs struggle with regulatory questions]]

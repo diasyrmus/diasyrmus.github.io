@@ -23,4 +23,4 @@ copper: minutely accurate representation, realistic image, permanent record, dif
 mapmaking and nature pictures - flora and fauna. the antwerp museum is good at this. 
 
 ---
-*Part of a reading sequence:* [[The Coming of the Book (Manuscripts)|The Coming of the Book]] · [[The Introduction of Paper into Europe]] · [[The Technical Problems and their Solution]]
+*Part of a reading sequence:* [[The Coming of the Book]] · [[The Introduction of Paper into Europe]] · [[The Technical Problems and their Solution]]

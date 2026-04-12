@@ -26,4 +26,4 @@ who are the rag and bone men of the internet? situating paper establishments tak
 reversing this, it is in th nature of early experiments that the vocabulary, an conceptual vocabulary an grammar, is not at that point available.  it will only appear later when it people have a chance to talk about what they’re doing or theorise about it. 
 
 ---
-*Part of a reading sequence:* [[The Coming of the Book (Manuscripts)|The Coming of the Book]] · [[The Technical Problems and their Solution]] · [[The book, its visual appearance]]
+*Part of a reading sequence:* [[The Coming of the Book]] · [[The Technical Problems and their Solution]] · [[The book, its visual appearance]]
