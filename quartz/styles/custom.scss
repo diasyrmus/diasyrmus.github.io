@@ -1,3 +1,25 @@
 @use "./base.scss";
+@use "./variables.scss" as *;
 
-// put your custom CSS here!
+// Mobile nav bar: left sidebar becomes a slim top strip with search + darkmode
+@media all and ($mobile) {
+  .sidebar.left {
+    border-bottom: 1px solid var(--lightgray);
+    padding-bottom: 0.75rem !important;
+    margin-bottom: 0.5rem;
+    justify-content: flex-end;
+  }
+}
+
+// Mobile right sidebar: stack vertically and give it breathing room
+@media all and ($mobile) {
+  .sidebar.right {
+    flex-direction: column !important;
+    padding: 1rem 0 0 0 !important;
+    gap: 1rem !important;
+
+    & > * {
+      flex: unset !important;
+    }
+  }
+}
