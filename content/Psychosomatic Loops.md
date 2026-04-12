@@ -48,3 +48,6 @@ Distinction between dispositional images and images in the mind - dispositional 
 [^3]: [Damasio, Antonio. Descartes' Error: Emotion, Reason and the Human Brain](https://www.penguin.co.uk/books/391857/descartes-error-by-damasio-antonio/9780099501640) (pp. 86-87). (Function). Kindle Edition.
 
 [^4]: Damasio, Antonio. Descartes' Error: Emotion, Reason and the Human Brain (p. 109). (Function). Kindle Edition. 
+
+---
+*These feedback loops lived:* [[dissociation]] — the body-world feeling thin and unreal · [[today]] — the world feeling rich and communicative

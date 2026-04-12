@@ -39,3 +39,6 @@ and what about the “laundered” errors that AI introduces?
 
 > perhaps the new media of our age, broadcasting and the cinema, may help us grasp how ideas and works can be transmitted without passing through the medium of print
 > p 23
+
+---
+*Part of a reading sequence:* [[The Introduction of Paper into Europe]] · [[The Technical Problems and their Solution]] · [[The book, its visual appearance]]

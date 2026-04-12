@@ -21,3 +21,6 @@ woodcuts: images that helped the public’s efforts at imagination, rather than 
 copper: minutely accurate representation, realistic image, permanent record, diffusion of pictorial fact to analogous to the diffusion of typographical fact.  p101
 
 mapmaking and nature pictures - flora and fauna. the antwerp museum is good at this. 
+
+---
+*Part of a reading sequence:* [[The Coming of the Book (Manuscripts)|The Coming of the Book]] · [[The Introduction of Paper into Europe]] · [[The Technical Problems and their Solution]]

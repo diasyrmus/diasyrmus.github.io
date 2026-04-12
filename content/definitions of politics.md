@@ -33,3 +33,5 @@ oh and i guess, with Weber in mind, for definition of politics in government and
 
 > First, she must recognise that like countries, politicians do not have permanent enemies or allies — they have interests.
 
+---
+*Related:* [[Ontological Sink]] — on what political chaos costs us attentionally · [[Gesture]] — on political semiotics and the cognitive cost of gesture

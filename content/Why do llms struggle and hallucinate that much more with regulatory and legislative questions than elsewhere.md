@@ -69,3 +69,6 @@ Strategies for managing this:
     
 
 Remember that no matter how sophisticated the approach, LLM outputs should always be treated as starting points for legal research, not as definitive legal advice. For critical legal matters, consulting with a qualified legal professional remains essential.
+
+---
+*Related:* [[from projectors to solutionists]] — on how domain-specific vocabulary resists general understanding · [[The Technical Problems and their Solution]] — early printing faced similar problems of terminology and tacit knowledge

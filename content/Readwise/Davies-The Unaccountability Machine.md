@@ -1,0 +1,68 @@
+---
+kindle-bookId: '11359'
+kindle-title: >-
+  The Unaccountability Machine: Why Big Systems Make Terrible Decisions - and
+  How The World Lost its Mind
+kindle-author: Dan Davies
+kindle-highlightsCount: 16
+kindle-asin: B0CGFWBFD6
+kindle-lastAnnotatedDate: '2026-03-20'
+kindle-bookImageUrl: 'https://m.media-amazon.com/images/I/714lyzlD1BL._SX1024.jpg'
+---
+# The Unaccountability Machine
+## Metadata
+* Author: [Dan Davies](https://amazon.co.uk//Dan-Davies/e/B07DGHPV6F/ref=aufs_dp_fta_an_dsk)
+* ASIN: B0CGFWBFD6
+* ISBN: 0226843084
+* Reference: https://amazon.co.uk/dp/B0CGFWBFD6
+* [Kindle link](kindle://book?action=open&asin=B0CGFWBFD6)
+
+## Highlights
+All the top executives had to do was set unrealistic profitability targets and underinvest in legal departments and compliance systems. — location: [222](kindle://book?action=open&asin=B0CGFWBFD6&location=222) ^ref-16959
+
+---
+The defining characteristic of the polycrisis is a loss of control by the previously existing hierarchy. — location: [238](kindle://book?action=open&asin=B0CGFWBFD6&location=238) ^ref-34406
+
+---
+The word has survived, but sadly it’s lost this connotation of a repeated and changing process; as used on consumer websites and by human resources departments, it really just means ‘communication from the decided-upon back to the deciders, of a kind which will probably be ignored’. — location: [707](kindle://book?action=open&asin=B0CGFWBFD6&location=707) ^ref-19788
+
+---
+A unit would be allowed to operate autonomously, but only to the extent that doing so did not jeopardise the broader system, whether in terms of a financial budget, physical resources of space, managerial time and bandwidth or general goodwill. — location: [792](kindle://book?action=open&asin=B0CGFWBFD6&location=792) ^ref-33071
+
+---
+This management theory is based neither on control nor on delegation, but on accountability between the parts of a business. People were able to make decisions and change their mind, as long as they could justify those decisions to anyone else who was affected. And it was a system of accountability based on the flow of information; the higher functions of the system were responsible for creating the goals, ensuring their consistency with each other and with the resources available. They then communicated their sense to the operating levels and set the system in motion. And then the system repeated, with the results of the initial plans forming the information set used to revise them. — location: [802](kindle://book?action=open&asin=B0CGFWBFD6&location=802) ^ref-23601
+
+---
+Knowing a great deal of detail about a subset of a system has a habit of increasing your confidence in your opinions disproportionately from their reliability. — location: [1002](kindle://book?action=open&asin=B0CGFWBFD6&location=1002) ^ref-15993
+
+---
+‘Dan,’ he said, ‘since this thing began, there have been two types of analysts. Some people, like yourself, have been trying to develop their understanding of an incredibly complicated system, under huge pressure, absorbing vast amounts of technical detail in a short time, and doing a fairly good job of it. Others have just been mindless bomb-throwers, trying to attract attention to themselves with ill-informed displays of competitive panic. I decided early in this crisis that I was going to listen to the second type of analyst, not the first – and they have turned out, systematically, to be much closer to being right.’ — location: [1008](kindle://book?action=open&asin=B0CGFWBFD6&location=1008) ^ref-58851
+
+---
+The dream of AI research is still of the prospect of ‘getting out more than you put in’. In fact, ‘explainability’, for all that it’s seen as an important ethical goal, is practically a contradiction in terms when applied to a system that you also want to see as intelligent. — location: [1250](kindle://book?action=open&asin=B0CGFWBFD6&location=1250) ^ref-29541
+
+---
+It’s a concept that’s recognisable to anyone who has hung around consultants or business school academics as ‘management by exception’. That’s the relatively commonsensical principle that as much as possible, people ought to be given tasks to do and left to achieve them. An ‘exception’, in the jargon, is an ‘exception to the rule’ – something the business unit comes across that it can’t deal with and so ‘escalates’ to the level above. In a company or organisation run on these principles, the job of management consists mainly in dealing with these sorts of unusual cases, and then occasionally revising the objectives handed down to the level below. — location: [1648](kindle://book?action=open&asin=B0CGFWBFD6&location=1648) ^ref-33150
+
+---
+System 5 is what Stafford Beer calls philosophy or identity. That might sound like an odd name to give the job of variety engineering to balance two competing management systems, but he does this because there’s a specific technique that’s best suited to this task, and ‘identity’ or ‘self-creation’* is a good name for it. It matters what kind of an orchestra this is. Having a consistent identity is a great way of reducing the variety you need to deal with, because it means that there are lot of possibilities that can be simply ignored. — location: [1724](kindle://book?action=open&asin=B0CGFWBFD6&location=1724) ^ref-33663
+
+---
+But having a consistent identity isn’t just a matter of setting a kind of dogma. In fact, understanding that identity, philosophy and purpose are tools of information management is the key to understanding the most famous slogan of management cybernetics, ‘POSIWID’ – or ‘the purpose of a system is what it does’. The identity-creating function is intrinsically linked to the variety-balancing function. In working to balance the immediate needs of the system with its response to a changing environment, System 5 is making the decisions which determine ‘what it does’ and, consequently, its purpose. POSIWID is not just a glib piece of cynicism; it’s a description of how a system retains viability and identity. — location: [1730](kindle://book?action=open&asin=B0CGFWBFD6&location=1730) ^ref-19953
+
+---
+Every channel of communication between systems not only needs to have enough bandwidth to carry the variety that it’s meant to transmit, it also needs to be equipped with enough translation capacity at each end to ensure that the signal is understood. — location: [1749](kindle://book?action=open&asin=B0CGFWBFD6&location=1749) ^ref-19267
+
+---
+As we’ve noted, the signals have to be sent quickly enough and monitored regularly enough to allow them to be the basis of action, without generating oscillations. — location: [1751](kindle://book?action=open&asin=B0CGFWBFD6&location=1751) ^ref-39955
+
+---
+A division of this sort will generally be a ‘problem child’; unable to absorb its own environmental variability, it will bounce from crisis to crisis, taking up disproportionate time and effort on the part of the middle managers to which it has been assigned. — location: [1779](kindle://book?action=open&asin=B0CGFWBFD6&location=1779) ^ref-23750
+
+---
+A real System 4, though, is explicitly concentrated on those parts of the environment that aren’t yet relevant to what it’s doing. — location: [1866](kindle://book?action=open&asin=B0CGFWBFD6&location=1866) ^ref-63556
+
+---
+Depending on political preferences and ideological commitments, they could then either go back and make a new model, or declare that the distance represented a failure on the part of reality and suggest a policy to bring the world into line. It’s not hard to see why these people became influential advisors. — location: [1977](kindle://book?action=open&asin=B0CGFWBFD6&location=1977) ^ref-51918
+
+---

@@ -37,3 +37,6 @@ Listening to the most recent *Know Your Enemy* podcast, with John Ganz, you can 
 These are good, smart people, but the incentives here are bad. The intellectual energies of the world become consumed by chaotic actors who reduce the quality of information in the world and break its structure. We spend time and energy trying to manage and structure information that is completely chaotic and unable to be transmitted with any sort of success, because it's not clear the bits you can compress out and the bits you need to keep for comprehension and decision making appropriate to the information author.
 
 Adam Tooze is in a similar space and does a remarkable job, but why are you always operating at the front edge of history?
+
+---
+*Related:* [[definitions of politics]] — also draws on Tooze; on what politics is and costs · [[Psychosomatic Loops]] — the body mechanics of what anxiety and attentional exhaustion actually are
