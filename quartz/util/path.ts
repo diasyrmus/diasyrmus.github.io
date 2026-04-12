@@ -56,7 +56,8 @@ function sluggify(s: string): string {
         .replace(/&/g, "-and-")
         .replace(/%/g, "-percent")
         .replace(/\?/g, "")
-        .replace(/#/g, ""),
+        .replace(/#/g, "")
+        .replace(/[''']/g, ""), // strip apostrophes (straight + curly) — they break URLs on some hosts
     )
     .join("/") // always use / as sep
     .replace(/\/$/, "")
