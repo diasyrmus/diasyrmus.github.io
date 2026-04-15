@@ -31,7 +31,7 @@ Three categories of nonmarket activity are prevalent. One is unpaid work inside 
 Supply and demand bypasses questions of how buyers and sellers get together, what other dealings they have, how buyers evaluate what they are buying, and how agreements are enforced. — location: [172](kindle://book?action=open&asin=B001T7EJ9Q&location=172) ^ref-55223
 
 ---
-A workable market design keeps in check transaction costs—the various frictions in the process of making exchanges. These costs include the time, effort, and money spent in the process of doing business—both those incurred by the buyer in addition to the actual price paid, and those incurred by the seller in making the sale.11 Transaction costs are many and varied. — location: [190](kindle://book?action=open&asin=B001T7EJ9Q&location=190) ^ref-18259
+A workable market design keeps in check transaction costs—the various frictions in the process of making exchanges. These costs include the time, effort, and money spent in the process of doing business—both those incurred by the buyer in addition to the actual price paid, and those incurred by the seller in making the sale.11 Transaction costs are many and varied. — location: [190](kindle://book?action=open&asin=B001T7EJ9Q&location=190) ^ref-18259 #friction 
 
 ---
 Bargainers sometimes overreach in trying to squeeze out a good bargain, causing an impasse and spoiling what could have been a mutually beneficial deal. — location: [196](kindle://book?action=open&asin=B001T7EJ9Q&location=196) ^ref-6774
