@@ -19,8 +19,8 @@ Notes missing a publication date. These should either get a `date:` added to the
 
 ## Has front matter, but no date
 
-| Note |
-|------|
-| [[Gesture]] |
+| Note                |
+| ------------------- |
+| [[Gesture]]         |
 | [[index\|homepage]] |
-| [[musk]] |
+| [[musk]]            |
