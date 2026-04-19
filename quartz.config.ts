@@ -18,7 +18,7 @@ const config: QuartzConfig = {
     locale: "en-GB",
     baseUrl: "https://diasyrmus.github.io",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "modified",
+    defaultDateType: "created",
     generateSocialImages: true,
     theme: {
       fontOrigin: "googleFonts",
@@ -82,7 +82,13 @@ const config: QuartzConfig = {
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
       Plugin.ContentPage(),
-      Plugin.FolderPage(),
+      Plugin.FolderPage({
+        sort: (f1, f2) => {
+          const d1 = f1.dates?.created?.getTime() ?? 0
+          const d2 = f2.dates?.created?.getTime() ?? 0
+          return d2 - d1
+        },
+      }),
       Plugin.TagPage(),
       Plugin.ContentIndex({
         enableSiteMap: true,

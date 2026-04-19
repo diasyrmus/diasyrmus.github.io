@@ -2,6 +2,19 @@ import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 import { SimpleSlug } from "./quartz/util/path"
 
+const Explorer = Component.Explorer({
+  sortFn: (a, b) => {
+    if (!a.file && b.file) return -1
+    if (a.file && !b.file) return 1
+    if (a.file && b.file) {
+      const d1 = a.file.dates?.created?.getTime() ?? 0
+      const d2 = b.file.dates?.created?.getTime() ?? 0
+      return d2 - d1
+    }
+    return a.displayName.localeCompare(b.displayName, undefined, { numeric: true, sensitivity: "base" })
+  },
+})
+
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
@@ -24,7 +37,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Explorer),
   ],
   right: [
     // RecentNotes and Backlinks show on all screen sizes — they are content.
@@ -44,7 +57,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Explorer),
   ],
   right: [],
 }
