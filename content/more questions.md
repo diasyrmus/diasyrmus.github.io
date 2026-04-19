@@ -3,6 +3,7 @@ title: more questions
 date: 2025-02-18
 tags:
   - thinking
+  - questions
 ---
 so what? what are the consequences of this model or view of the world?
 

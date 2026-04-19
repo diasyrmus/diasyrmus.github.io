@@ -1,7 +1,7 @@
 ---
 title: bred in the bone
 date: 2025-01-13
-draft: "true"
+draft: "false"
 tags:
   - books
 ---
