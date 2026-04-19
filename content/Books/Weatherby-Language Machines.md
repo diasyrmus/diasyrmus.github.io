@@ -1,13 +1,15 @@
 ---
-kindle-bookId: '56897'
-kindle-title: >-
-  Language Machines: Cultural AI and the End of Remainder Humanism
-  (Posthumanities)
+kindle-bookId: "56897"
+kindle-title: "Language Machines: Cultural AI and the End of Remainder Humanism (Posthumanities)"
 kindle-author: Leif Weatherby
 kindle-highlightsCount: 22
 kindle-asin: B0DK2L6K3C
-kindle-lastAnnotatedDate: '2025-11-20'
-kindle-bookImageUrl: 'https://m.media-amazon.com/images/I/91yYQBzzj4L._SX1024.jpg'
+kindle-lastAnnotatedDate: 2025-11-20
+kindle-bookImageUrl: https://m.media-amazon.com/images/I/91yYQBzzj4L._SX1024.jpg
+tags:
+  - ai
+  - knowledge
+  - epistemology
 ---
 # Language Machines
 ## Metadata

@@ -17,4 +17,4 @@ I am not very good at these behaviours, if I'm honest.
 
 Still, sometimes one must just push ahead regardless, and this is one of those situations.
 
-It is that Clausewitzian #friction – "[the way, broadly speaking, the world pushes back when we push forward](https://www.thenewatlantis.com/publications/ai-cant-beat-stupid)". You need mechanisms to manage that friction.
+It is that Clausewitzian #friction – "[[the way, broadly speaking, the world pushes back when we push forward]](https://www.thenewatlantis.com/publications/ai-cant-beat-stupid)". You need mechanisms to manage that friction.
