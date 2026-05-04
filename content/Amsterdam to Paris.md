@@ -3,6 +3,7 @@ title: amsterdam to paris
 date: 2026-04-28
 tags:
   - journal
+draft: "true"
 ---
 Between Rotterdam and Antwerp, I see a church across several fields in the beautifully clear sunlight we’ve been having in north-western europe this april. Chilly in the morning, warm in the afternoon, the clearest possible sunlight. 
 
